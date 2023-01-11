@@ -10,5 +10,8 @@
   },
   {
     "package": "delver"
+  },
+  {
+    "package": "ColumbusGPS"
   }
 ]

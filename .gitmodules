@@ -23,3 +23,8 @@
 	url = https://github.com/EnvironmentalScienceAssociates/delver
 	shallow = true
 	registered = true
+[submodule "ColumbusGPS"]
+	path = ColumbusGPS
+	url = https://github.com/EnvironmentalScienceAssociates/ColumbusGPS
+	shallow = true
+	registered = true
