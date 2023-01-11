@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/environmentalscienceassociates/universe
 	shallow = true
 	branch = HEAD
+[submodule "fulcrumr"]
+	path = fulcrumr
+	url = https://github.com/EnvironmentalScienceAssociates/fulcrumr
+	shallow = true
+	registered = true
+[submodule "tbsa"]
+	path = tbsa
+	url = https://github.com/EnvironmentalScienceAssociates/tbsa
+	shallow = true
+	registered = true
+[submodule "esaRmisc"]
+	path = esaRmisc
+	url = https://github.com/EnvironmentalScienceAssociates/esaRmisc
+	shallow = true
+	registered = true
+[submodule "delver"]
+	path = delver
+	url = https://github.com/EnvironmentalScienceAssociates/delver
+	shallow = true
+	registered = true

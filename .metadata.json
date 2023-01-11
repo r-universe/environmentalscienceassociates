@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "fulcrumr"
+  },
+  {
+    "package": "tbsa"
+  },
+  {
+    "package": "esaRmisc"
+  },
+  {
+    "package": "delver"
+  }
+]
