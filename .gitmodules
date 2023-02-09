@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/environmentalscienceassociates/universe
+	url = https://github.com/environmentalscienceassociates/environmentalscienceassociates.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "fulcrumr"]
